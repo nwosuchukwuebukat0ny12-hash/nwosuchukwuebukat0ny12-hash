@@ -12,6 +12,5 @@ I'm a Software Engineering student and full-stack web developer, currently level
 Diving deeper into AI Engineering while building solid full-stack projects along the way.
 
 📫 Let's connect
-- LinkedIn: https://www.linkedin.com/in/chukwuebuka-nwosu-88ab613b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-
+ LinkedIn: www.linkedin.com/in/chukwuebuka-nwosu-88ab613b6
 Thanks for stopping by,always open to interesting conversations and collaborations!
